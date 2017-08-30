@@ -1,0 +1,5 @@
+*.log
+*.pyc
+soft/*
+.vagrant
+notebooks/.ipynb_checkpoints
